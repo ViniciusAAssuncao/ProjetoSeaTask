@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+    user-select: none;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    -webkit-user-drag: none;
+    cursor: pointer;
+}
+
+.logo h1 {
+    font-size: 1.5em;
+}
+
+.link_itens {
+    display: flex;
+    list-style: none;
+}
+
+.link_itens li {
+    margin-right: 1.3em;
+}
+
+.link_itens a {
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
+    transition: .4s;
+    border-bottom: 2px solid transparent;
+}
+
+.link_itens a:hover {
+    border-color: #fff;
+}

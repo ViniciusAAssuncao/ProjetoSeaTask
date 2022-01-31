@@ -1,0 +1,12 @@
+CRIAR O BANCO DE DADOS E INSERIR AS TABELAS COM AS COLUNAS DE MANEIRA CORRETA.
+
+CREATE SCHEMA `seataskusers2` ;
+
+CRIAR AS TABLES E AS COLUNAS
+
+CREATE TABLE `seataskusers`.`tasks` (
+  `idtasks` INT NOT NULL,
+  `taskDescription` VARCHAR(250) NOT NULL,
+  PRIMARY KEY (`idtasks`));
+
+PRONTO :)
