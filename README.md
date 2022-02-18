@@ -5,5 +5,4 @@ O projeto **SeaTask** tem como objetivo a demonstração de um crud simples util
 [Axios](https://axios-http.com/docs/intro) e etc...
 
 ## Ou seja...
-O objetivo é demonstrar o poder de cada tecnologia para além de estudos sobre a efetividade de sua utilização, isso não significa que o código não possa ser revisa ou utilizado em seus projetos,
-a única contraindicação é dar deploy, pois não há qualquer artifício de segurança avançado para o back-end ou qualquer garantia de performance.
+O objetivo é demonstrar o poder de cada tecnologia para além de estudos sobre a efetividade de sua utilização, isso não significa que o código não possa ser revisado ou utilizado em seus projetos, a única contraindicação é dar deploy, pois não há qualquer artifício de segurança avançado para o back-end ou qualquer garantia de performance.
